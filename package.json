@@ -18,7 +18,10 @@
   "bugs": {
     "url": "https://github.com/chamale-rac/ia-powered-3d-api/issues"
   },
-  "homepage": "https://github.com/chamale-rac/ia-powered-3d-api#readme",  
+  "homepage": "https://github.com/chamale-rac/ia-powered-3d-api#readme",
+  "engines": {
+    "node": ">=18"
+  },  
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
